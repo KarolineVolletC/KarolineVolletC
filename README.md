@@ -1,7 +1,16 @@
-- 👋 Hi, I’m @KarolineVolletC
-- 👀 I’m interested in Python for Data & AI
-- 📫 How to reach me karolinevolletc@gmail.com
-<!---
-KarolineVolletC/KarolineVolletC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Olá, sou a Karoline Vollet 👩‍💻
+
+🔍 **Interesses**: Python, Data Science, Inteligência Artificial
+
+📧 **Contato**: karolinevolletc@gmail.com
+
+## 🔧 Tecnologias que utilizo
+
+- Python
+- Pandas, NumPy, Matplotlib
+- Scikit-learn, TensorFlow
+- Jupyter Notebooks
+
+## 📚 Mais sobre mim
+
+Sou apaixonada por transformar dados em insights valiosos. Estou sempre em busca de novos desafios para aplicar e expandir meus conhecimentos.
