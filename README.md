@@ -1,4 +1,4 @@
-# Olá, sou a Karoline Vollet 👩‍💻
+# Olá, sou a Karol 👩‍💻
 
 🔍 **Interesses**: Python, Data Science, Inteligência Artificial
 
