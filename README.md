@@ -1,16 +1,16 @@
-# Olá, sou a Karol 👩‍💻
+# Hi, I’m Karol 👩‍💻
 
-🔍 **Interesses**: Python, Data Science, Inteligência Artificial
+🔍 **Interests:** Python, Data Science, Artificial Intelligence, Supply Chain Tech
 
-📧 **Contato**: karolinevolletc@gmail.com
+📧 **Contact:** karolinevolletc@gmail.com
 
-## 🔧 Tecnologias que utilizo
+## 🔧 Technologies I Work With
 
-- Python
-- Pandas, NumPy, Matplotlib
-- Scikit-learn, TensorFlow
-- Jupyter Notebooks
+- Python  
+- Pandas, NumPy, Matplotlib  
+- Scikit-learn, TensorFlow  
+- Jupyter Notebooks  
 
-## 📚 Mais sobre mim
+## 📚 About Me
 
-Sou apaixonada por transformar dados em insights valiosos. Estou sempre em busca de novos desafios para aplicar e expandir meus conhecimentos.
+I’m a Supply Chain professional passionate about bridging the gap between operations and technology. I love transforming data into actionable insights and strive to make the supply chain smarter, more efficient, and tech-driven. Always eager to learn and take on new challenges that blend analytics with real-world impact.
