@@ -1,15 +1,15 @@
-<h1 align="center">✨ Karol Vollet ✨</h1>
+<h1 align="center">✨ Karoline✨</h1>
 <p align="center">Data & IA Lover | Supply Chain Hacker | Future Dev</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" alt="Supply Chain Animation"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Karol** — passionate about **data, technology, and solving real-world problems**.  
+Hi! I'm **Karoline Vollet or Karol** — passionate about **data, technology, and solving real-world problems**.  
 With a strong background in **Supply Chain**, I’m diving headfirst into the world of **programming, data analytics, and artificial intelligence**.
 
 I love writing code that solves messy problems. And yes, turning a spreadsheet into a smart system is *totally* my kind of fun 😄
@@ -52,6 +52,13 @@ If you're into data, AI, automations, or just want to chat:
 📧 **karolinevolletc@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/karolinevolletc) (feel free to say hi!)  
 🐍 Coming soon: my project portfolio!
+
+---
+
+> _"To code is to translate ideas into real-world impact — and that’s pure magic."_  
+> — Karol ✨
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
