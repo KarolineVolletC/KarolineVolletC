@@ -1,16 +1,58 @@
-# Hi, I’m Karol 👩‍💻
+<h1 align="center">✨ Karol Vollet ✨</h1>
+<p align="center">Data & IA Lover | Supply Chain Hacker | Future Dev</p>
 
-🔍 **Interests:** Python, Data Science, Artificial Intelligence, Supply Chain Tech
+<p align="center">
+  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="250" />
+</p>
 
-📧 **Contact:** karolinevolletc@gmail.com
+---
 
-## 🔧 Technologies I Work With
+## 👩‍💻 About Me
 
-- Python  
-- Pandas, NumPy, Matplotlib  
-- Scikit-learn, TensorFlow  
-- Jupyter Notebooks  
+Hi! I'm **Karol** — passionate about **data, technology, and solving real-world problems**.  
+With a strong background in **Supply Chain**, I’m diving headfirst into the world of **programming, data analytics, and artificial intelligence**.
 
-## 📚 About Me
+I love writing code that solves messy problems. And yes, turning a spreadsheet into a smart system is *totally* my kind of fun 😄
 
-I’m a Supply Chain professional passionate about bridging the gap between operations and technology. I love transforming data into actionable insights and strive to make the supply chain smarter, more efficient, and tech-driven. Always eager to learn and take on new challenges that blend analytics with real-world impact.
+---
+
+## 🚀 What Drives Me
+
+- Turning data into **smart decisions**
+- Automating tasks no one wants to do 🤖
+- Making **Logistics & Supply Chain more human** with tech
+- Always learning (and teaching when I can!)
+
+---
+
+## 🧠 Skills in Progress
+
+| Languages & Libs       | Tools                  | Current Focus               |
+|------------------------|------------------------|-----------------------------|
+| `Python`, `SQL`        | Jupyter, VS Code       | Data automation             |
+| `Pandas`, `NumPy`      | Git & GitHub           | Predictive modeling         |
+| `Matplotlib`, `Seaborn`| Google Colab           | Dashboards & data analysis  |
+| `Scikit-learn`, `TensorFlow` | Advanced Excel | Inventory optimization      |
+
+---
+
+## 🔮 Dreams in Progress
+
+- 📍 Become a **global data developer**
+- 🌍 Work remotely with international teams
+- 👣 Bring tech to places it hasn’t reached yet
+- 🎒 Live as a **digital nomad**, laptop in hand, code in the cloud
+
+---
+
+## 📫 Let's Connect!
+
+If you're into data, AI, automations, or just want to chat:
+
+📧 **karolinevolletc@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/karolinevolletc) (feel free to say hi!)  
+🐍 Coming soon: my project portfolio!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
